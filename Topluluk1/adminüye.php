@@ -2,7 +2,7 @@ cannnnn﻿<!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
-<title>ADMİN ÜYE|</title>
+<title>CAN KAPLAN|</title>
 <link rel="stylesheet" href="üye.css"/>
 </head>
 
