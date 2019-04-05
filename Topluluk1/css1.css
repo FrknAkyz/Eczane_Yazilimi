@@ -1,0 +1,132 @@
+#navıgator{
+	margin-top: 0;
+	margin: auto;
+	text-align: center;
+	position:fixed ;
+	top:0;
+	width:1335px;
+	max-width:1350px;
+	min-width:1335px;
+	
+	
+	}
+body{background-color:#E6E6FF;}
+nav{
+width: auto; border: 2px; box-shadow: 1px 2px 6px #666;
+	
+}
+#menü{
+	padding:0; margin:0; list-style:none;
+	margin-top:0;
+	text-align:center;
+	margin-left:9%;
+	
+	
+	}
+nav ul#menü li a{
+	text-decoration:none;
+	color:#000;
+	font:12px tahoma;
+	display:block;
+	padding:7px;
+	border-bottom:1px dotted #ccc;
+	transition:all 0.3s;
+	width:162px;
+	float:left;	
+	background-color:#FFF;
+	box-shadow: 1px 2px 6px #39F;
+	
+	}
+nav ul#menü li a:hover{
+	background: #fff;
+	color: #c03;
+	padding-top: 15px;
+	
+}
+.title{
+	background:#39F;
+	padding:6px;
+	}
+#center{
+	margin-top:100px;
+	margin-left:5%;
+	box-shadow: 1px 1px 20px 1px #999999;
+	padding:400px;
+	background-color:#FFF;
+	margin-bottom:2%;
+	float:left;
+	}
+#duyuru{
+	float: right;
+	box-shadow: 1px 1px 20px 1px #999999;
+	margin-right:5%;
+	margin-top:100px;
+	background-color:#FFF;
+	margin-bottom:2%;
+	width:350px;
+	height:400px;
+	}
+#duyuru2{
+	box-shadow: 1px 1px 20px 1px #999999;
+	float:right;
+	margin-right:5%;
+	margin-top:20px;
+	background-color:#FFF;
+	margin-bottom:2%;
+	width:350px;
+	height:350px;
+	}
+#brain{
+	margin-left:1%;
+	margin-bottom: 2px;
+	padding:1px;
+	
+	width: 1300px;
+	box-shadow: 1px 1px 20px 1px #999999;
+	text-align: center;
+	float: left;
+	}
+#ynt{
+	margin-left:8%;
+	width:300px;
+	margin-top:1%;
+	
+	float:left;}
+#idr{margin-left:5%;margin-top:1%;
+width:300px;
+	float:left;}
+#kyt{float:left;margin-top:1%;
+width:300px;
+margin-left:5%;
+margin-right:5%;}
+#brainj{
+	float:left;}
+a{	color:#3CF;
+	font-style: oblique;
+font-family: Arial, Helvetica, sans-serif;
+text-decoration: none;
+vertical-align: baseline;
+	}
+p{
+	font-size:14px;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	color:#333;
+	}
+h1{
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	
+	
+	color:#333;
+	font-size:18px;
+	}
+h2{
+	color:#333;
+	border-bottom:outset 2px  blue;
+	}
+.sosyal{
+	float: right;
+	margin-right:20px;
+	margin-top:17px;
+	box-shadow: 1px 1px 20px 1px #000033;
+}
+
